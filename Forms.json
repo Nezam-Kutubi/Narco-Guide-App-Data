@@ -5,14 +5,14 @@
     "source": "বেসরকারি নিরাময় কেন্দ্র লাইসেন্স বিধিমালা, ২০০৫",
     "category": "লাইসেন্স সংক্রান্ত",
     "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/rehab_center_visit.pdf",
-    "fileName": "rehab_center_visit.pdf"
+    "fileName": "rehab_center_license.pdf"
   },
   {
     "id": 2,
     "title": "ফরম-৭: বার ও রেস্টুরেন্ট লাইসেন্স আবেদনপত্র",
     "source": "অ্যালকোহল বিধিমালা, ২০২২",
     "category": "লাইসেন্স সংক্রান্ত",
-    "filePath": "assets/forms/bar_license.pdf",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/",
     "fileName": "bar_license.pdf"
   },
   {
@@ -20,7 +20,7 @@
     "title": "ফরম-১০: ব্যক্তিগত অ্যালকোহল সেবনের পারমিট আবেদন",
     "source": "অ্যালকোহল বিধিমালা, ২০২২",
     "category": "লাইসেন্স সংক্রান্ত",
-    "filePath": "assets/forms/alcohol_permit.pdf",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/",
     "fileName": "alcohol_permit.pdf"
   },
   {
@@ -29,19 +29,16 @@
 
     "source": "মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮ (ধারা ৩৮)",
     "category": "আইন-শৃংখলা ও আদালত",
-    "filePath": "assets/forms/chemical_test_invoice.pdf",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/",
     "fileName": "chemical_test_invoice.pdf"
   },
   {
     "id": 5,
-    "title": "স্পেশাল পাবলিক প্রসিকিউটর (SPP) নিয়োগ আবেদন ফরম",
-
+    "title": "মাদকদ্রব্য খুচরা বিক্রয়ের লাইসেন্সের জন্য আবেদনপত্র",
     "source": "আইন ও বিচার বিভাগ, স্বরাষ্ট্র মন্ত্রণালয়",
-
     "category": "আইন-শৃংখলা ও আদালত",
-
-    "filePath": "assets/forms/spp_appointment.pdf",
-    "fileName": "spp_appointment.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/a548d82f23894e3a951dd70b70497359.pdf",
+    "fileName": "a548d82f23894e3a951dd70b70497359.pdf"
   },
   {
     "id": 6,
