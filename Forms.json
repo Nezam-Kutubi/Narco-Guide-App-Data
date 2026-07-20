@@ -3,38 +3,37 @@
     "id": 1,
     "title": "বেসরকারি মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র পরিদর্শন ফরম",
     "source": "বেসরকারি নিরাময় কেন্দ্র লাইসেন্স বিধিমালা, ২০০৫",
-    "category": "লাইসেন্স সংক্রান্ত",
+    "category": "অন্যান্য",
     "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/rehab_center_visit.pdf",
     "fileName": "rehab_center_license.pdf"
   },
   {
     "id": 2,
-    "title": "ফরম-৭: বার ও রেস্টুরেন্ট লাইসেন্স আবেদনপত্র",
+    "title": "মাদকদ্রব্য ব্যবহারের জন্য পারমিটের আবেদনপত্র (ফরম-৮)",
     "source": "অ্যালকোহল বিধিমালা, ২০২২",
     "category": "লাইসেন্স সংক্রান্ত",
-    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/",
-    "fileName": "bar_license.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/9cf9e719d270471cb32ce8b89eb81907.pdf",
+    "fileName": "9cf9e719d270471cb32ce8b89eb81907.pdf"
   },
   {
     "id": 3,
-    "title": "ফরম-১০: ব্যক্তিগত অ্যালকোহল সেবনের পারমিট আবেদন",
+    "title": "রেক্টিফাইড স্পিরিট/অ্যাবসোলিউট অ্যালকোহল/ইথাইল অ্যালকোহল সম্বলিত হোমিওপ্যাথিক ঔষধ আমদানির লাইসেন্সের জন্য আবেদনপত্র (ফরম-২/২)",
     "source": "অ্যালকোহল বিধিমালা, ২০২২",
     "category": "লাইসেন্স সংক্রান্ত",
-    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/",
-    "fileName": "alcohol_permit.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/7da131690a284a1f9e11827a97997df5.pdf",
+    "fileName": "7da131690a284a1f9e11827a97997df5.pdf"
   },
   {
     "id": 4,
-    "title": "মাদক মামলার রাসায়নিক পরীক্ষার চালানি ফরম",
-
+    "title": "বিলাতীমদের উৎপাদন ও প্রক্রিয়াজাতকরণ/বোতলজাতকরণের, পাইকারি ও খুচরা বিক্রয়ের লাইসেন্সের জন্য আবেদনপত্র (ফরম-২/২৬, ২/২৭, ২/২৮)",
     "source": "মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮ (ধারা ৩৮)",
-    "category": "আইন-শৃংখলা ও আদালত",
-    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/",
-    "fileName": "chemical_test_invoice.pdf"
+    "category": "লাইসেন্স সংক্রান্ত",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/79a31d39f5654712a092ca9b1e34979e.pdf",
+    "fileName": "79a31d39f5654712a092ca9b1e34979e.pdf"
   },
   {
     "id": 5,
-    "title": "মাদকদ্রব্য খুচরা বিক্রয়ের লাইসেন্সের জন্য আবেদনপত্র",
+    "title": "রিপ্লেস করব",
     "source": "আইন ও বিচার বিভাগ, স্বরাষ্ট্র মন্ত্রণালয়",
     "category": "আইন-শৃংখলা ও আদালত",
     "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/a548d82f23894e3a951dd70b70497359.pdf",
@@ -42,161 +41,106 @@
   },
   {
     "id": 6,
-    "title": "মাদক চোরাচালান ও বিক্রয় সংক্রান্ত গোপন অভিযোগ ফরম",
-
+    "title": "মাদকদ্রব্য খুচরা বিক্রয়ের জন্য আবেদনপত্র (ফরম-৬)",
     "source": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর (ডিএনসি) অভিযোগ কেন্দ্র",
-
-    "category": "অভিযোগ ও পরামর্শ",
-
-    "filePath": "assets/forms/confidential_complaint.pdf",
-    "fileName": "confidential_complaint.pdf"
+    "category": "লাইসেন্স সংক্রান্ত",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/77f21f270e624f3e853ef5508834b92c.pdf",
+    "fileName": "77f21f270e624f3e853ef5508834b92c.pdf"
   },
   {
     "id": 7,
-    "title": "নিরাময় কেন্দ্রের বিরুদ্ধে অনিয়ম ও অব্যবস্থাপনার অভিযোগ পত্র",
-
+    "title": "PDS (Personnel Data Sheet) Form",
     "source": "ভোক্তা অধিকার ও মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর",
-
-    "category": "অভিযোগ ও পরামর্শ",
-
-    "filePath": "assets/forms/rehab_complaint.pdf",
-    "fileName": "rehab_complaint.pdf"
+    "category": "অন্যান্য",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/682c346d03ea449faacbea2c43f19f4f.pdf",
+    "fileName": "682c346d03ea449faacbea2c43f19f4f.pdf"
   },
   {
     "id": 8,
-    "title": "মাদকবিরোধী জনসচেতনতামূলক সমাবেশের অনুমতি ফরম",
-
+    "title": "হোমিওপ্যাথিক চিকিৎসক কর্তৃক ঔষধ ডাইল্যুশন এর জন্য রেক্টিফাইড স্পিরিট ব্যবহারের পারমিটের আবেদনপত্র (ফরম-২/৩)",
     "source": "স্থানীয় জেলা প্রশাসক ও পুলিশ প্রশাসন",
-
     "category": "অন্যান্য",
-
-    "filePath": "assets/forms/antidrug_awareness_rally.pdf",
-    "fileName": "antidrug_awareness_rally.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/63dc082322004d85a71bbfb45bf2cbed.pdf",
+    "fileName": "63dc082322004d85a71bbfb45bf2cbed.pdf"
   },
   {
     "id": 9,
-    "title": "ফরম-২/১: হোমিওপ্যাথিক ঔষধ প্রস্তুতের জন্য স্পিরিট আমদানির লাইসেন্স আবেদন",
-
+    "title": "মাদকদ্রব্য উৎপাদন ও প্রক্রিয়াজাতকরণ লাইসেন্সের আবেদনপত্র (ফরম-৪)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-
     "category": "লাইসেন্স সংক্রান্ত",
-
-    "filePath": "assets/forms/form_2_1_license_import.pdf",
-    "fileName": "form_2_1_license_import.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/5a20156a32c74f339ebb719c27287fdb.pdf",
+    "fileName": "5a20156a32c74f339ebb719c27287fdb.pdf"
   },
   {
     "id": 10,
-    "title": "ফরম-২/৫: বার পারসোনেল/বিক্রেতা/বহনকারী নিয়োগের আবেদনপত্র",
-
+    "title": "ড্রাগ আসক্ত রোগীর ভর্তি নিবন্ধন",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-
-    "category": "লাইসেন্স সংক্রান্ত",
-
-    "filePath": "assets/forms/form_2_5_bar_personnel.pdf",
-    "fileName": "form_2_5_bar_personnel.pdf"
+    "category": "আইন-শৃংখলা ও আদালত",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/4ea8d76171e74d45922b48192b5fd65c.pdf",
+    "fileName": "4ea8d76171e74d45922b48192b5fd65c.pdf"
   },
   {
     "id": 11,
-    "title": "ফরম-২/৬: হোটেল, রেস্তোরাঁ ও ক্লাবে বার স্থাপনের লাইসেন্স আবেদন",
-
+    "title": "হোমিওপ্যাথিক ঔষধ প্রস্তুত এর জন্য রেক্টিফাইড স্পিরিট/অ্যাবসোলিউট অ্যালকোহল/ইথাইল অ্যালকোহল আমদানির লাইসেন্সের জন্য আবেদনপত্র (ফরম-২/১)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-
     "category": "লাইসেন্স সংক্রান্ত",
-
-    "filePath": "assets/forms/form_2_6_bar_license.pdf",
-    "fileName": "form_2_6_bar_license.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/4e8c03987b1f4556bb351c1b96b172e9.pdf",
+    "fileName": "4e8c03987b1f4556bb351c1b96b172e9.pdf"
   },
   {
     "id": 12,
-    "title": "ফরম-২/৯: দেশি/বিলাতি মদ পানের পারমিট আবেদনপত্র (মুসলিম/অমুসলিম)",
+    "title": "মাদকদ্রব্য আমদানী/রপ্তানীর লাইসেন্স/ছাড়পত্রের আবেদনপত্র (ফরম-১)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
     "category": "লাইসেন্স সংক্রান্ত",
-    "filePath": "assets/forms/form_2_9_permit_consumption.pdf",
-    "fileName": "form_2_9_permit_consumption.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/4bc4d7b604f745b19c26198845cc9d92.pdf",
+    "fileName": "4bc4d7b604f745b19c26198845cc9d92.pdf"
   },
   {
     "id": 13,
-    "title": "ফরম-২/১৩: মদ ও মদজাতীয় পানীয় আমদানি/রপ্তানির পূর্বানুমতি আবেদন",
-    "subtitle": "Form-2/13: Application for Prior Permission of Alcohol Import / Export",
+    "title": "দেশিমদ বা বিলাতি/বিদেশী মদ ও মদজাতীয় পানীয় পানের পারমিটের আবেদদন (মুসলিম/অমুসলিম) (ফরম-২/৯)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-    "description": "মদ ও মদজাতীয় পানীয় আমদানি বা রপ্তানি করিবার জন্য সরকারি পূর্বানুমতির আবেদনপত্র।",
     "category": "লাইসেন্স সংক্রান্ত",
-    "fields": [
-      "১. আমদানিকারক/রপ্তানিকারক প্রতিষ্ঠানের নাম ও লাইসেন্স নম্বর",
-      "২. আমদানির জন্য আবেদনকৃত মদ ও মদ জাতীয় পানীয়ের ব্রান্ড ও পরিমাণ",
-      "৩. মোট মূল্য (বৈদেশিক মুদ্রায় ও দেশীয় টাকায়) এবং আমদানি রুট",
-      "৪. প্রবেশ বা নির্গমন শুল্ক স্টেশনের নাম ও এলসি (L/C) বিবরণ",
-      "৫. পূর্ববর্তী ছাড়পত্র ও আমদানির বিবরণ"
-    ],
-    "filePath": "assets/forms/form_2_13_import_export.pdf",
-    "fileName": "form_2_13_import_export.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/26d0c9ac73d64c13b115486a6ab5a30b.pdf",
+    "fileName": "26d0c9ac73d64c13b115486a6ab5a30b.pdf"
   },
   {
     "id": 14,
-    "title": "ফরম-২/১৫: লাইসেন্সের অংশীদারিত্ব/মালিকানা পরিবর্তনের আবেদন",
-    "subtitle": "Form-2/15: Application for License Partnership / Ownership Change",
+    "title": "দাপ্তরিক পরিচয় পত্রের আবেদন ফরম",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-    "description": "বিদ্যমান মদের দোকান, বার বা ডিস্টিলারি লাইসেন্সের অংশীদারিত্ব অথবা মালিকানা পরিবর্তনের আবেদনপত্র।",
-    "category": "লাইসেন্স সংক্রান্ত",
-    "fields": [
-      "১. লাইসেন্সির নাম ও লাইসেন্সের বিবরণ (নম্বর, প্রদানের তারিখ ও প্রকার)",
-      "২. লাইসেন্সির শিক্ষাগত যোগ্যতা ও পারিবারিক বিবরণ",
-      "৩. লাইসেন্সের অংশীদারিত্ব পরিবর্তনের কারণ ও বিবরণ",
-      "৪. প্রস্তাবিত নতুন অংশীদারের নাম, ঠিকানা ও আর্থিক সচ্ছলতার সনদ",
-      "৫. হালনাগাদ আয়কর পরিশোধের রসিদ ও পুলিশ প্রত্যয়নপত্র"
-    ],
-    "filePath": "assets/forms/form_2_15_partnership_change.pdf",
-    "fileName": "form_2_15_partnership_change.pdf"
+    "category": "অন্যান্",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/166e9efaba9b4bd1aadd26de0c86bb61.pdf",
+    "fileName": "166e9efaba9b4bd1aadd26de0c86bb61.pdf"
   },
   {
     "id": 15,
-    "title": "ফরম-২/১৬: লাইসেন্সির মৃত্যুজনিত কারণে মালিকানা পরিবর্তনের আবেদন",
-    "subtitle": "Form-2/16: Application for Ownership Transfer Due to Licensee Death",
+    "title": "হোটেল, রেস্তোরা, হোটেল কাম রেস্তোরা, বিনোদন কেন্দ্র, বন্দর, রিসোর্ট, থিমপার্ক এ বার স্থাপনের লাইসেন্সের আবেদনপত্র।(ফরম-২/৬)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-    "description": "লাইসেন্সির মৃত্যুজনিত কারণে উত্তরাধিকারীদের অনুকূলে মালিকানা পরিবর্তনের আবেদনপত্র।",
     "category": "লাইসেন্স সংক্রান্ত",
-    "fields": [
-      "১. মৃত লাইসেন্সির নাম ও মৃত্যুর তারিখ (মৃত্যু সনদ সংযুক্ত)",
-      "২. মৃত লাইসেন্সির আইনানুগ উত্তরাধিকারীদের তালিকা ও বয়স",
-      "৩. উত্তরাধিকারীদের অনাপত্তি বা যৌথ সম্মতিপত্র (এফিডেভিট)",
-      "৪. প্রস্তাবিত নতুন মালিক বা উত্তরাধিকারীর নাম ও জীবনবৃত্তান্ত",
-      "৫. হালনাাদ আয়কর পরিশোধের রসিদ ও উত্তরাধিকার সনদ"
-    ],
-    "filePath": "assets/forms/form_2_16_ownership_death.pdf",
-    "fileName": "form_2_16_ownership_death.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/db5da06cad7a4bf2a258f630522c3bbf.pdf",
+    "fileName": "db5da06cad7a4bf2a258f630522c3bbf.pdf"
   },
   {
     "id": 16,
-    "title": "ফরম-২/১৭: ডিস্টিলারি লাইসেন্সের জন্য আবেদনপত্র",
-    "subtitle": "Form-2/17: Application for Distillery License",
+    "title": "বিলাতীমদের ব্রান্ড রেজিস্ট্রেশনের আবেদনপত্র (ফরম-২/৩০)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-    "description": "নতুন ডিস্টিলারি স্থাপন ও অ্যালকোহল উৎপাদনের লাইসেন্স পাওয়ার জন্য আবেদনপত্র।",
     "category": "লাইসেন্স সংক্রান্ত",
-    "fields": [
-      "১. প্রতিষ্ঠানের নাম ও স্বত্বাধিকারীর নাম ও বিবরণ",
-      "২. বিডা (BIDA) বা বিসিক (BSCIC) এর নিবন্ধন নম্বর ও মেয়াদ",
-      "৩. পরিবেশ অধিদপ্তরের ছাড়পত্র ও বর্জ্য ব্যবস্থাপনা পরিকল্পনা",
-      "৪. ডিস্টিলারিতে নিয়োজিত বা কর্মরত কেমিস্টের বিবরণ ও সনদ",
-      "৫. ডিস্টিলারির লে-আউট প্ল্যান ও ফায়ার সার্ভিস সনদ"
-    ],
-    "filePath": "assets/forms/form_2_17_distillery_license.pdf",
-    "fileName": "form_2_17_distillery_license.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/dad39daa49d2499f9cfc5b95fa3d835d.pdf",
+    "fileName": "dad39daa49d2499f9cfc5b95fa3d835d.pdf"
   },
   {
     "id": 17,
-    "title": "ফরম-২/২৩: বিলাতিমদের পাইকারি বিক্রয় কেন্দ্র/বন্ডেড পণ্যাগার লাইসেন্স আবেদন",
-    "subtitle": "Form-2/23: Application for Foreign Liquor Wholesale Center / Bonded Warehouse License",
+    "title": "হোমিওপ্যাথিক ঔষধ প্রস্তুত এর জন্য রেক্টিফাইড স্পিরিট/অ্যাবসোলিউট অ্যালকোহল/ইথাইল অ্যালকোহল সংগ্রহ, সংরক্ষণ, পরিবহন এবং ঔষধ তৈরীর উপাদান হিসেবে ব্যবহারের লাইসেন্সের জন্য আবেদনপত্র (ফরম-২/২৯)",
     "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
-    "description": "বিলাতিমদের পাইকারি বিক্রয় কেন্দ্র বা বন্ডেড পণ্যাগারের লাইসেন্স পাওয়ার জন্য আবেদনপত্র।",
     "category": "লাইসেন্স সংক্রান্ত",
-    "fields": [
-      "১. প্রতিষ্ঠানের নাম ও ঠিকানা",
-      "২. শুল্ক কর্তৃপক্ষ কর্তৃক প্রদত্ত বন্ড লাইসেন্স নম্বর",
-      "৩. বন্ডেড পণ্যাগারের ধারণক্ষমতা ও নকশা (ব্লু-প্রিন্ট)",
-      "৪. বিলাতিমদের ব্রান্ড ও বাৎসরিক মজুদের সম্ভাব্য পরিমাণ",
-      "৫. কাস্টমস বন্ডেড গুদামজাতকরণ সংক্রান্ত সম্মতিপত্র ও লাইসেন্স"
-    ],
-    "filePath": "assets/forms/form_2_23_foreign_wholesale.pdf",
-    "fileName": "form_2_23_foreign_wholesale.pdf"
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/cf73a54bccbd4c588ea19e9067ece17f.pdf",
+    "fileName": "cf73a54bccbd4c588ea19e9067ece17f.pdf"
+  },
+  {
+    "id": 18,
+    "title": "বেসরকারি মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্রের অনুদানের আবেদন ফরম",
+    "source": "অ্যালকোহল নিয়ন্ত্রণ বিধিমালা, ২০২২",
+    "category": "অন্যান্য",
+    "filePath": "https://raw.githubusercontent.com/Nezam-Kutubi/Narco-Guide-App-Data/main/Forms/cd23c1cef1454ba394093d82ee861bd6.pdf",
+    "fileName": "cd23c1cef1454ba394093d82ee861bd6.pdf"
   }
 ]
