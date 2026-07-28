@@ -4,11 +4,11 @@
         "name": "কেন্দ্রীয় মাদকাসক্তি নিরাময় কেন্দ্র (তেজগাঁও)",
         "address": "তেজগাঁও শিল্প এলাকা, ঢাকা-১২০৮",
         "division": "ঢাকা",
-        "phone": "+৮৮০২১২২৩৩৪৪",
+        "phone": "",
         "type": "সরকারি",
         "district": "ঢাকা",
         "facilities": "ডিটক্সিফিকেশন, ২৪ ঘণ্টা জরুরি চিকিৎসা, কগনিティブ বিহেভিওরাল থেরাপি (CBT), নৈতিক ও ধর্মীয় কাউন্সেলিং, সমৃদ্ধ লাইব্রেরি ও ইনডোর গেমস",
-        "seats": 120,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Central+Drug+Addiction+Treatment+Center+Tejgaon+Dhaka"
     },
     {
@@ -16,11 +16,11 @@
         "name": "আঞ্চলিক মাদকাসক্তি নিরাময় কেন্দ্র (চট্টগ্রাম)",
         "address": "পাহাড়তলী, চট্টগ্রাম",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০৩১৬১৫১৬১",
+        "phone": "",
         "type": "সরকারি",
         "district": "চট্টগ্রাম",
         "facilities": "মেডিকেল ডিটক্স, ব্যক্তিগত কাউন্সেলিং, গ্রুপ ডিসকাশন, বিনোদনমূলক কার্যক্রম ও শরীরচর্চা",
-        "seats": 50,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Regional+Drug+Addiction+Treatment+Center+Pahartali+Chittagong"
     },
     {
@@ -28,11 +28,11 @@
         "name": "আঞ্চলিক মাদকাসক্তি নিরাময় কেন্দ্র (রাজশাহী)",
         "address": "হেতেম খাঁ, রাজশাহী",
         "division": "রাজশাহী",
-        "phone": "+৮৮০৭৪৭১৭২১৭",
+        "phone": "",
         "type": "সরকারি",
         "district": "রাজশাহী",
         "facilities": "ডিটক্সিফিকেশন, অভিজ্ঞ সাইকিয়াট্রিস্ট দ্বারা চিকিৎসা, নিয়মিত মেডিটেশন ক্লাস ও সুষম পুষ্টি পরামর্শ",
-        "seats": 50,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Regional+Drug+Addiction+Treatment+Center+Hetem+Kha+Rajshahi"
     },
     {
@@ -40,11 +40,11 @@
         "name": "আঞ্চলিক মাদকাসক্তি নিরাময় কেন্দ্র (খুলনা)",
         "address": "বয়রা, খুলনা",
         "division": "খুলনা",
-        "phone": "+৮৮০৪১৭১৭১৭১",
+        "phone": "",
         "type": "সরকারি",
         "district": "খুলনা",
         "facilities": "ডিটক্সিফিকেশন ওয়ার্ড, আধ্যাত্মিক ও মানসিক শক্তি বৃদ্ধি সেশন, লাইব্রেরি ও নিয়মিত ইনডোর টুর্নামেন্ট",
-        "seats": 50,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Regional+Drug+Addiction+Treatment+Center+Boyra+Khulna"
     },
     {
@@ -52,11 +52,11 @@
         "name": "মুক্তি কো-অপারেটিভ মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "লালমাটিয়া, ঢাকা",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১১২২৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ঢাকা",
         "facilities": "অভিজ্ঞ সাইকিয়াট্রিস্ট টিম, ফ্যামিলি কাউন্সেলিং, এসি কেবিন সুবিধা, আধুনিক জিমনেসিয়াম, কড়া নিরাপত্তা ও ২৪ ঘণ্টা মেডিকেল এটেনডেন্ট",
-        "seats": 80,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Mukti+Rehab+Center+Lalmatia+Dhaka"
     },
     {
@@ -64,11 +64,11 @@
         "name": "আশা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "নাসিরাবাদ, চট্টগ্রাম",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৮২২৩৩৪৪৫৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "চট্টগ্রাম",
         "facilities": "কাউন্সেলিং, সাইকো-সোশ্যাল পুনর্বাসন, যোগব্যায়াম ও পিটি, আউটডোর খেলাধুলার সুযোগ, বৃত্তিমূলক কর্মমুখী শিক্ষা",
-        "seats": 60,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Asha+Rehab+Center+Nasirabad+Chittagong"
     },
     {
@@ -76,11 +76,11 @@
         "name": "উদ্দীপন নিরাময় কেন্দ্র ও পুনর্বাসন সেবা",
         "address": "উপশহর, সিলেট",
         "division": "সিলেট",
-        "phone": "+৮৮০১৭১১২৩৪৫৬৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "সিলেট",
         "facilities": "ডিটক্সিফিকেশন থেরাপি, মেডিটেশন ও ধ্যান চর্চা, ধর্মীয় অনুশাসন অনুশীলন, ইনডোর খেলাধুলা ও অভিভাবক মিটিং",
-        "seats": 35,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Sylhet+Drug+Rehab+Center"
     },
     {
@@ -88,11 +88,11 @@
         "name": "প্রত্যয় মাদক নিরাময় কেন্দ্র",
         "address": "সদর রোড, বরিশাল",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৭১২৪৫৬৭৮৯",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "বরিশাল",
         "facilities": "ডিটক্সিফিকেশন, ব্যক্তিগত পরামর্শ, স্বাস্থ্য পরীক্ষা, মেডিটেশন ও শান্ত পরিবেশ",
-        "seats": 40,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Barishal+Rehab+Center"
     },
     {
@@ -100,11 +100,11 @@
         "name": "সোনার বাংলা পুনর্বাসন ও নিরাময় হোম",
         "address": "ধাপ, রংপুর",
         "division": "রংপুর",
-        "phone": "+৮৮০১৮১২৩৪৫৬৭৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "রংপুর",
         "facilities": "নিরাময় চিকিৎসা, ধর্মীয় পাঠদান, নৈতিক শিক্ষা, কাউন্সেলিং সেশন, ও হালকা ব্যায়ামের ব্যবস্থা",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Rangpur+Rehab+Center"
     },
     {
@@ -112,11 +112,11 @@
         "name": "আলোড়ন পুনর্বাসন ও মাদক নিরাময় কেন্দ্র",
         "address": "চরপাড়া, ময়মনসিংহ",
         "division": "ময়মনসিংহ",
-        "phone": "+৮৮০১৮২৩৪৫৬৭৮৯",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ময়মনসিংহ",
         "facilities": "ডিটক্সিফিকেশন সাপোর্ট, ফ্যামিলি গ্রুপ সেশন, নিয়মিত কাউন্সিলিং, ২০+ সিট ক্যাপাসিটি, বিনোদন কক্ষ",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Mymensingh+Rehab+Center"
     },
     {
@@ -124,11 +124,11 @@
         "name": "প্রত্যয় মেডিকেল ক্লিনিক",
         "address": "রোড-৮, বারিধারা, ঢাকা",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১২৫৫৪৪৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ঢাকা",
         "facilities": "উন্নত মানের ডিটক্সিফিকেশন, ২৪ ঘণ্টা কনসালটেন্ট সাপোর্ট, সাইকোথেরাপি, ব্যক্তিগত ও ফ্যামিলি কাউন্সেলিং, এসি রুম ও মানসম্মত পরিবেশ",
-        "seats": 40,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Prottoy+Medical+Clinic+Baridhara+Dhaka"
     },
     {
@@ -136,11 +136,11 @@
         "name": "লাইফ ওয়ান মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "সেক্টর ১১, উত্তরা, ঢাকা",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৯৭৭১১২২৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ঢাকা",
         "facilities": "মেডিকেল ডিটক্স, সাইকিয়াট্রিক ইভালুয়েশন, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Life+One+Rehab+Uttara+Dhaka"
     },
     {
@@ -148,11 +148,11 @@
         "name": "আপন (APON) মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "রূপগঞ্জ, নারায়ণগঞ্জ",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১৬৪৬২৬১",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নারায়ণগঞ্জ",
         "facilities": "প্রাকৃতিক পরিবেশ, থেরাপিউটিক কমিউনিটি মডেল, বৃত্তিমূলক প্রশিক্ষণ, গ্রুপ ও ফ্যামিলি সেশন, দীর্ঘমেয়াদী পুনর্বাসন",
-        "seats": 50,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Apon+Drug+Rehab+Rupganj"
     },
     {
@@ -160,11 +160,11 @@
         "name": "প্রশান্তি নিরাময় কেন্দ্র",
         "address": "জয়দেবপুর, গাজীপুর",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৯১২৯৯৮৮৭৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "গাজীপুর",
         "facilities": "ডিটক্সিফিকেশন, কাউন্সেলিং, বিনোদনমূলক কার্যক্রম, সাইকো-সোশ্যাল সাপোর্ট ও ধর্মীয় সেশন",
-        "seats": 35,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Gaizpur+Prashanti+Rehab"
     },
     {
@@ -172,11 +172,11 @@
         "name": "নতুন দিগন্ত মাদকাসক্তি পুনর্বাসন কেন্দ্র",
         "address": "গোয়ালচামট, ফরিদপুর",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৮১৬৫৫৪৪৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ফরিদপুর",
         "facilities": "শারীরিক সুস্থতা পরীক্ষা, মানসিক স্বাস্থ্য পরামর্শ, মেডিটেশন ও নৈতিক পাঠদান",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Faridpur+Notun+Diganto+Rehab"
     },
     {
@@ -184,11 +184,11 @@
         "name": "মেঘনা নিরাময় কেন্দ্র",
         "address": "ভেলানগর, নরসিংদী",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৮১২৩৩৪৪৫৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নরসিংদী",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল এডুকেশন, মেডিটেশন ও ইনডোর খেলাধুলা",
-        "seats": 25,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Narsingdi+Meghna+Rehab"
     },
     {
@@ -196,11 +196,11 @@
         "name": "উদ্দীপন মাদকাসক্তি নিরাময় কেন্দ্র (চট্টগ্রাম)",
         "address": "হালিশহর, চট্টগ্রাম",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৮২২৩৩৪৪৫৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "চট্টগ্রাম",
         "facilities": "ডিটক্সিফিকেশন ওয়ার্ড, নিয়মিত কাউন্সেলিং, ধর্মীয় ও নৈতিক শিক্ষা, খেলাধুলা ও অভিভাবক সমাবেশ",
-        "seats": 35,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Chittagong+Uddipon+Rehab"
     },
     {
@@ -208,11 +208,11 @@
         "name": "সী-শেল মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "কলাতলী, কক্সবাজার",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৮১৯১১২২৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "কক্সবাজার",
         "facilities": "শান্ত মনোরম পরিবেশ, ডিটক্স সাপোর্ট, সাইকোথেরাপি, আউটডোর এক্সারসাইজ ও ইয়োগা সেশন",
-        "seats": 25,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Coxs+Bazar+Sea+Shell+Rehab"
     },
     {
@@ -220,11 +220,11 @@
         "name": "কুমিল্লা মাদক নিরাময় কেন্দ্র",
         "address": "কান্দিরপাড়, কুমিল্লা",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১৩৩৫৫৭৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "কুমিল্লা",
         "facilities": "অভিজ্ঞ সাইকিয়াট্রিক টিম, ডিটক্সিফিকেশন, ইনডোর বিনোদন, এবং নিয়মিত সাইকোলজিক্যাল এসেসমেন্ট",
-        "seats": 35,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Comilla+Drug+Rehab"
     },
     {
@@ -232,11 +232,11 @@
         "name": "ফেনী মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "মহিপাল, ফেনী",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৮১৩৫৫৬৬৭৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ফেনী",
         "facilities": "ডিটক্স ও কেয়ার, দৈনিক যোগব্যায়াম, ধর্মীয় সেশন, বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 25,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Feni+Drug+Rehab"
     },
     {
@@ -244,11 +244,11 @@
         "name": "নোয়াখালী মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "মাইজদী, নোয়াখালী",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১৫৬৬৭৭৮৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নোয়াখালী",
         "facilities": "ডিটক্সিফিকেশন, ব্যক্তিগত পরামর্শ, স্বাস্থ্য পরীক্ষা, এবং পুনর্বাসন শিক্ষা",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Noakhali+Drug+Rehab"
     },
     {
@@ -256,11 +256,11 @@
         "name": "সানরাইজ মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "উপশহর, রাজশাহী",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১১৪৪৫৫৬৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "রাজশাহী",
         "facilities": "ডিটক্সিফিকেশন থেরাপি, ব্যক্তিগত ও গ্রুপ কাউন্সেলিং, খেলাধুলার সুবিধা ও ইনডোর গেমস",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Rajshahi+Sunrise+Rehab"
     },
     {
@@ -268,11 +268,11 @@
         "name": "বগুড়া পুনর্বাসন ও নিরাময় কেন্দ্র",
         "address": "জলেশ্বরীতলা, বগুড়া",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১২২২৩৩৪৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "বগুড়া",
         "facilities": "ডিটক্স ওয়ার্ড, ২০+ সিট ক্যাপাসিটি, কগনিটিভ থেরাপি, ফ্যামিলি মিট ও সুষম খাবার",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Bogra+Rehabilitation+Center"
     },
     {
@@ -280,11 +280,11 @@
         "name": "পাবনা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "শালগাড়িয়া, পাবনা",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১৪৪৪৫৫৬৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "পাবনা",
         "facilities": "ডিটক্সিফিকেশন, কগনিティブ আচরণগত থেরাপি, নিয়মিত ব্যায়াম, নৈতিক ও ধর্মীয় কাউন্সেলিং",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Pabna+Drug+Rehab+Center"
     },
     {
@@ -292,11 +292,11 @@
         "name": "সেতুবন্ধন মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "খালিশপুর, খুলনা",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১৩৩১১২২",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "খুলনা",
         "facilities": "ডিটক্সিফিকেশন, ২৪ ঘণ্টা মেডিকেল সাপোর্ট, গ্রুপ ও ফ্যামিলি সেশন, ইয়োগা ও মেডিটেশন ক্লাস",
-        "seats": 35,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Khulna+Setubandhan+Rehab"
     },
     {
@@ -304,11 +304,11 @@
         "name": "যশোর মাদকাসক্তি পুনর্বাসন কেন্দ্র",
         "address": "চাঁচড়া, যশোর",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১২৫৫৪৪৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "যশোর",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল এডুকেশন, মেডিটেশন ও ইনডোর খেলাধুলা",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Jessore+Rehab+Center"
     },
     {
@@ -316,11 +316,11 @@
         "name": "কুষ্টিয়া নিরাময় কেন্দ্র",
         "address": "থানা মোড়, কুষ্টিয়া",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১৯৯৩৩২২",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "কুষ্টিয়া",
         "facilities": "মেডিকেল ডিটক্স, ব্যক্তিগত কাউন্সেলিং, গ্রুপ ডিসকাশন, ও ধর্মীয় পাঠদান",
-        "seats": 25,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Kushtia+Rehab+Center"
     },
     {
@@ -328,11 +328,11 @@
         "name": "সিলেট মাদকাসক্তি নিরাময় ক্লিনিক",
         "address": "শাহজালাল উপশহর, সিলেট",
         "division": "সিলেট",
-        "phone": "+৮৮০১৭১১৮৮৭৭৬৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "সিলেট",
         "facilities": "ডিটক্সিফিকেশন, লাইব্রেরি ও ইনডোর গেমস, সাইকোথেরাপি এবং নৈতিক কাউন্সেলিং",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Sylhet+Drug+Rehab+Clinic"
     },
     {
@@ -340,11 +340,11 @@
         "name": "শ্রীমঙ্গল নিরাময় কেন্দ্র",
         "address": "শ্রীমঙ্গল, মৌলভীবাজার",
         "division": "সিলেট",
-        "phone": "+৮৮০১৭১৪৬৬৫৫৪৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "মৌলভীবাজার",
         "facilities": "ডিটক্স ওয়ার্ড, শান্ত মনোরম পরিবেশ, ব্যক্তিগত পরামর্শ এবং রিল্যাক্সেশন থেরাপি",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Sreemangal+Moulvibazar+Rehab"
     },
     {
@@ -352,11 +352,11 @@
         "name": "কীর্তনখোলা নিরাময় কেন্দ্র",
         "address": "রুপাতলী, বরিশাল",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৭১১৭৭৬৬৫৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "বরিশাল",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন",
-        "seats": 25,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Barishal+Kirtonkhola+Rehab"
     },
     {
@@ -364,11 +364,11 @@
         "name": "পটুয়াখালী মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "সদর, পটুয়াখালী",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৮১৩২২১১০০",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "পটুয়াখালী",
         "facilities": "ডিটক্সিফিকেশন থেরাপি, কাউন্সেলিং সেশন, ধর্মীয় অনুশাসন অনুশীলন ও ইনডোর গেমস",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Patuakhali+Rehab+Center"
     },
     {
@@ -376,11 +376,11 @@
         "name": "দিনাজপুর নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, দিনাজপুর",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১২৪৪৮৮৩৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "দিনাজপুর",
         "facilities": "নিরাময় চিকিৎসা, ধর্মীয় পাঠদান, নৈতিক শিক্ষা, এবং ব্যক্তিগত পরামর্শ",
-        "seats": 25,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Dinajpur+Rehab+Center"
     },
     {
@@ -388,11 +388,11 @@
         "name": "ময়মনসিংহ নিরাময় ক্লিনিক",
         "address": "ভাটিকাশর, ময়মনসিংহ",
         "division": "ময়মনসিংহ",
-        "phone": "+৮৮০১৭১১২২৭৭৮৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ময়মনসিংহ",
         "facilities": "ডিটক্সিফিকেশন সাপোর্ট, ফ্যামিলি গ্রুপ সেশন, নিয়মিত কাউন্সিলিং ও পুষ্টিকর খাবার",
-        "seats": 30,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Mymensingh+Rehab+Clinic"
     },
     {
@@ -400,11 +400,11 @@
         "name": "জামালপুর মাদকাসক্তি নিরাময় কেন্দ্র",
         "address": "সদর, জামালপুর",
         "division": "ময়মনসিংহ",
-        "phone": "+৮৮০১৯১২防৩৩৪৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "জামালপুর",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং ও নিয়মিত ডক্টর এসেসমেন্ট",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Jamalpur+Rehab+Center"
     },
     {
@@ -412,11 +412,11 @@
         "name": "মুন্সীগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, মুন্সীগঞ্জ",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৪৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "মুন্সীগঞ্জ",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Munshiganj+Rehab+Center"
     },
     {
@@ -424,11 +424,11 @@
         "name": "মানিকগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, মানিকগঞ্জ",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৫২",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "মানিকগঞ্জ",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Manikganj+Rehab+Center"
     },
     {
@@ -436,11 +436,11 @@
         "name": "গোপালগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, গোপালগঞ্জ",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৫৯",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "গোপালগঞ্জ",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Gopalganj+Rehab+Center"
     },
     {
@@ -448,11 +448,11 @@
         "name": "মাদারীপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, মাদারীপুর",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৬৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "মাদারীপুর",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Madaripur+Rehab+Center"
     },
     {
@@ -460,11 +460,11 @@
         "name": "শরীয়তপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, শরীয়তপুর",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৭৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "শরীয়তপুর",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Shariatpur+Rehab+Center"
     },
     {
@@ -472,11 +472,11 @@
         "name": "রাজবাড়ী মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, রাজবাড়ী",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৮০",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "রাজবাড়ী",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Rajbari+Rehab+Center"
     },
     {
@@ -484,11 +484,11 @@
         "name": "টাঙ্গাইল মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, টাঙ্গাইল",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৮৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "টাঙ্গাইল",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Tangail+Rehab+Center"
     },
     {
@@ -496,11 +496,11 @@
         "name": "টাঙ্গাইল মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, টাঙ্গাইল",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০২৯৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "টাঙ্গাইল",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Tangail+Rehab+Center"
     },
     {
@@ -508,11 +508,11 @@
         "name": "কিশোরগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, কিশোরগঞ্জ",
         "division": "ঢাকা",
-        "phone": "+৮৮০১৭১১০০৩০১",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "কিশোরগঞ্জ",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Kishoreganj+Rehab+Center"
     },
     {
@@ -520,11 +520,11 @@
         "name": "ব্রাহ্মণবাড়িয়া মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, ব্রাহ্মণবাড়িয়া",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১০০৩০৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ব্রাহ্মণবাড়িয়া",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Brahmanbaria+Rehab+Center"
     },
     {
@@ -532,11 +532,11 @@
         "name": "রাঙ্গামাটি মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, রাঙ্গামাটি",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১০০৩১৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "রাঙ্গামাটি",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Rangamati+Rehab+Center"
     },
     {
@@ -544,11 +544,11 @@
         "name": "খাগড়াছড়ি মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, খাগড়াছড়ি",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১০০৩২২",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "খাগড়াছড়ি",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Khagrachhari+Rehab+Center"
     },
     {
@@ -556,11 +556,11 @@
         "name": "বান্দরবান মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, বান্দরবান",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১০০৩২৯",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "বান্দরবান",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Bandarban+Rehab+Center"
     },
     {
@@ -568,11 +568,11 @@
         "name": "লক্ষ্মীপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, লক্ষ্মীপুর",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১০০৩৩৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "লক্ষ্মীপুর",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Lakshmipur+Rehab+Center"
     },
     {
@@ -580,11 +580,11 @@
         "name": "চাঁদপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, চাঁদপুর",
         "division": "চট্টগ্রাম",
-        "phone": "+৮৮০১৭১১০০৩৪৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "চাঁদপুর",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Chandpur+Rehab+Center"
     },
     {
@@ -592,11 +592,11 @@
         "name": "নাটোর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, নাটোর",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১১০০৩৫০",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নাটোর",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Natore+Rehab+Center"
     },
     {
@@ -604,11 +604,11 @@
         "name": "নওগাঁ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, নওগাঁ",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১১০০৩৫৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নওগাঁ",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Naogaon+Rehab+Center"
     },
     {
@@ -616,11 +616,11 @@
         "name": "চাঁপাইনবাবগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, চাঁপাইনবাবগঞ্জ",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১১০০৩৬৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "চাঁপাইনবাবগঞ্জ",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Chapainawabganj+Rehab+Center"
     },
     {
@@ -628,11 +628,11 @@
         "name": "সিরাজগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, সিরাজগঞ্জ",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১১০০৩৭১",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "সিরাজগঞ্জ",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Sirajganj+Rehab+Center"
     },
     {
@@ -640,11 +640,11 @@
         "name": "জয়পুরহাট মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, জয়পুরহাট",
         "division": "রাজশাহী",
-        "phone": "+৮৮০১৭১১০০৩৭৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "জয়পুরহাট",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Joypurhat+Rehab+Center"
     },
     {
@@ -652,11 +652,11 @@
         "name": "বাগেরহাট মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, বাগেরহাট",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৩৮৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "বাগেরহাট",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Bagerhat+Rehab+Center"
     },
     {
@@ -664,11 +664,11 @@
         "name": "সাতক্ষীরা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, সাতক্ষীরা",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৩৯২",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "সাতক্ষীরা",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Satkhira+Rehab+Center"
     },
     {
@@ -676,11 +676,11 @@
         "name": "ঝিনাইদহ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, ঝিনাইদহ",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৩৯৯",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ঝিনাইদহ",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Jhenaidah+Rehab+Center"
     },
     {
@@ -688,23 +688,23 @@
         "name": "মাগুরা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, মাগুরা",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৪০৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "মাগুরা",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Magura+Rehab+Center"
     },
     {
         "id": 59,
         "name": "নড়াইল মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
-        "address": "সদর, নড়াইল",
+        "address": "সদর, nড়াইল",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৪১৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নড়াইল",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Narail+Rehab+Center"
     },
     {
@@ -712,11 +712,11 @@
         "name": "চুয়াডাঙ্গা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, চুয়াডাঙ্গা",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৪২০",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "চুয়াডাঙ্গা",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Chuadanga+Rehab+Center"
     },
     {
@@ -724,11 +724,11 @@
         "name": "মেহেরপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, মেহেরপুর",
         "division": "খুলনা",
-        "phone": "+৮৮০১৭১১০০৪২৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "মেহেরপুর",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Meherpur+Rehab+Center"
     },
     {
@@ -736,11 +736,11 @@
         "name": "সুনামগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, সুনামগঞ্জ",
         "division": "সিলেট",
-        "phone": "+৮৮০১৭১১০০৪৩৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "সুনামগঞ্জ",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Sunamganj+Rehab+Center"
     },
     {
@@ -748,11 +748,11 @@
         "name": "হবিগঞ্জ মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, হবিগঞ্জ",
         "division": "সিলেট",
-        "phone": "+৮৮০১৭১১০০৪৪১",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "হবিগঞ্জ",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Habiganj+Rehab+Center"
     },
     {
@@ -760,11 +760,11 @@
         "name": "ভোলা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, ভোলা",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৭১১০০৪৪৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ভোলা",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Bhola+Rehab+Center"
     },
     {
@@ -772,11 +772,11 @@
         "name": "পিরোজপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, পিরোজপুর",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৭১১০০৪৫৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "পিরোজপুর",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Pirojpur+Rehab+Center"
     },
     {
@@ -784,11 +784,11 @@
         "name": "বরগুনা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, বরগুনা",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৭১১০০৪৬২",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "বরগুনা",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Barguna+Rehab+Center"
     },
     {
@@ -796,11 +796,11 @@
         "name": "ঝালকাঠি মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, ঝালকাঠি",
         "division": "বরিশাল",
-        "phone": "+৮৮০১৭১১০০৪৬৯",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ঝালকাঠি",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Jhalokati+Rehab+Center"
     },
     {
@@ -808,11 +808,11 @@
         "name": "কুড়িগ্রাম মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, কুড়িগ্রাম",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১১০০৪৭৬",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "কুড়িগ্রাম",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Kurigram+Rehab+Center"
     },
     {
@@ -820,11 +820,11 @@
         "name": "লালমনিরহাট মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, লালমনিরহাট",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১১০০৪৮৩",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "লালমনিরহাট",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Lalmonirhat+Rehab+Center"
     },
     {
@@ -832,11 +832,11 @@
         "name": "গাইবান্ধা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, গাইবান্ধা",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১১০০৪৯০",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "গাইবান্ধা",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Gaibandha+Rehab+Center"
     },
     {
@@ -844,11 +844,11 @@
         "name": "নীলফামারী মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, নীলফামারী",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১১০০৪৯৭",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নীলফামারী",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Nilphamari+Rehab+Center"
     },
     {
@@ -856,11 +856,11 @@
         "name": "পঞ্চগড় মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, পঞ্চগড়",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১১০০৫০৪",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "পঞ্চগড়",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Panchagarh+Rehab+Center"
     },
     {
@@ -868,11 +868,11 @@
         "name": "ঠাকুরগাঁও মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, ঠাকুরগাঁও",
         "division": "রংপুর",
-        "phone": "+৮৮০১৭১১০০৫১১",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "ঠাকুরগাঁও",
         "facilities": "ডিটক্স কেয়ার, লাইফ স্কিল ট্রেইনিং, রিল্যাপ্স প্রিভেনশন ক্লাস, ইনডোর বিনোদন ও পুষ্টিকর খাবার",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Thakurgaon+Rehab+Center"
     },
     {
@@ -880,11 +880,11 @@
         "name": "শেরপুর মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, শেরপুর",
         "division": "ময়মনসিংহ",
-        "phone": "+৮৮০১৭১১০০৫১৮",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "শেরপুর",
         "facilities": "ডিটক্সিফিকেশন, মানসিক স্বাস্থ্য পরামর্শ, ইনডোর খেলাধুলা, ব্যক্তিগত কাউন্সেলিং ও ধর্মীয় সেশন",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Sherpur+Rehab+Center"
     },
     {
@@ -892,11 +892,11 @@
         "name": "নেত্রকোনা মাদকাসক্তি নিরাময় ও পুনর্বাসন কেন্দ্র",
         "address": "সদর, নেত্রকোনা",
         "division": "ময়মনসিংহ",
-        "phone": "+৮৮০১৭১১০০৫২৫",
+        "phone": "",
         "type": "বেসরকারি",
         "district": "নেত্রকোনা",
         "facilities": "মেডিকেল ডিটক্স, অভিজ্ঞ ডক্টর প্যানেল, ইয়োগা ও মেডিটেশন, ফ্যামিলি গ্রুপ সেশন, নৈতিক পাঠদান",
-        "seats": 20,
+        "seats": 0,
         "googleMapsUrl": "https://maps.google.com/?q=Netrokona+Rehab+Center"
     }
 ]
