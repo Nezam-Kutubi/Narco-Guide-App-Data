@@ -1,5 +1,17 @@
 [
   {
+    "id": 1001,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, ঢাকা",
+    "address": "ঢাকা (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "ঢাকা",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "ঢাকা",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
+  },
+  {
     "id": 1,
     "name": "মুক্তি মানসিক এন্ড মাদকাসক্তি নিরাময় কেন্দ্র",
     "address": "রাজধানী কমপ্লেক্স, ২৩৭/২ নিউ এলিফেন্ট রোড, ঢাকা-১২০৫।",
@@ -2304,6 +2316,18 @@
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%B8%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B0%20%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AB%20%28%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A6%BE%29%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%95%E0%A6%BE%2C%20%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%AA%E0%A7%81%E0%A6%B0"
   },
   {
+    "id": 1002,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, চট্টগ্রাম",
+    "address": "চট্টগ্রাম (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "চট্টগ্রাম",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "চট্টগ্রাম",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
+  },
+  {
     "id": 193,
     "name": "অংকুর মাদকাসক্তি নিরাময় কেন্দ্র",
     "address": "বাসা নং-৩৩, লেইন নং -০৬, ব্লক আই, রোড নং-০১, হালিশহর হাউজিং এষ্টেট, চট্টগ্রাম।",
@@ -2818,6 +2842,18 @@
     "facilities": "",
     "seats": 10,
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%A8%E0%A7%8B%E0%A6%99%E0%A6%B0%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%20%E0%A6%B2%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE%2C%20%E0%A6%95%E0%A6%B2%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A7%80%20%E0%A6%B0%E0%A7%8B%E0%A6%A1%2C%20%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A5%A4"
+  },
+  {
+    "id": 1003,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, রাজশাহী",
+    "address": "রাজশাহী (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "রাজশাহী",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "রাজশাহী",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
   },
   {
     "id": 236,
@@ -3528,6 +3564,18 @@
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%A4%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%2C%20%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%20%E0%A6%B8%E0%A6%A6%E0%A6%B0%2C%20%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C"
   },
   {
+    "id": 1004,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, খুলনা",
+    "address": "খুলনা (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "খুলনা",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "খুলনা",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
+  },
+  {
     "id": 295,
     "name": "মুক্তিসেবা সংস্থা",
     "address": "৩৬, শের-এ-বাংলা রোড, খুলনা।",
@@ -3744,6 +3792,18 @@
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AF%E0%A6%BC%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%9A%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%20%E0%A6%B8%E0%A6%A6%E0%A6%B0%20%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%20%E0%A6%8F%E0%A6%B0%20%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%9F%E0%A7%87%20%E0%A6%AC%E0%A7%87%E0%A6%B2%E0%A6%97%E0%A6%BE%20%E0%A6%9B%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A3%E0%A7%8D%E0%A6%9F%20%E0%A6%B8%E0%A6%82%E0%A6%B2%E0%A6%97%E0%A7%8D%E0%A6%A8%2C%20%E0%A6%9A%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A5%A4"
   },
   {
+    "id": 1005,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, বরিশাল",
+    "address": "বরিশাল (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "বরিশাল",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "বরিশাল",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
+  },
+  {
     "id": 313,
     "name": "ক্রিয়া, মাদকাসক্তি পুনর্বাসন কেন্দ্র",
     "address": "কাউনিয়া, বরিশাল",
@@ -3850,6 +3910,18 @@
     "facilities": "",
     "seats": 20,
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%AA%E0%A6%9F%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A6%AB%E0%A6%BE%20%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8%2C%20%E0%A6%B9%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%82%20%E0%A6%A8%E0%A6%82-%E0%A7%AF%E0%A7%A6%E0%A7%A9%2C%20%E0%A6%AA%E0%A6%9F%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%20%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE%2C%20%E0%A6%AA%E0%A6%9F%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A5%A4"
+  },
+  {
+    "id": 1006,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, রংপুর",
+    "address": "রংপুর (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "রংপুর",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "রংপুর",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
   },
   {
     "id": 322,
@@ -4116,6 +4188,18 @@
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A6%A8%E0%A6%BF%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%9C%E0%A7%87%E0%A6%B2%20%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%20%E0%A6%B0%E0%A7%8B%E0%A6%A1%2C%20%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%9F%20%E0%A6%B8%E0%A6%A6%E0%A6%AF%E0%A6%BC%2C%20%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%9F"
   },
   {
+    "id": 1007,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, সিলেট",
+    "address": "সিলেট (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "সিলেট",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "সিলেট",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
+  },
+  {
     "id": 344,
     "name": "বীধন মাদকাসক্তি পুনর্বাসন কেন্দ্র",
     "address": "বালুচর পয়েন্ট,সিলেট",
@@ -4258,6 +4342,18 @@
     "facilities": "",
     "seats": 10,
     "googleMapsUrl": "https://maps.google.com/?q=%E0%A6%A8%E0%A6%BF%E0%A6%89%20%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%A8%20%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%20%E0%A6%93%20%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%A8%20%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%2C%20%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%82%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%20%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95%20%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%2C%E0%A6%B9%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A5%A4"
+  },
+  {
+    "id": 1008,
+    "name": "সরকারি মাদকাসক্তি নিরাময় কেন্দ্র, ময়মনসিংহ",
+    "address": "ময়মনসিংহ (তথ্য শীঘ্রই হালনাগাদ করা হবে)",
+    "division": "ময়মনসিংহ",
+    "phone": "০২-XXXXXXX",
+    "type": "সরকারি",
+    "district": "ময়মনসিংহ",
+    "facilities": "সকল আধুনিক সুযোগ-সুবিধা সম্বলিত সরকারি নিরাময় ও পুনর্বাসন কেন্দ্র।",
+    "seats": 100,
+    "googleMapsUrl": ""
   },
   {
     "id": 356,
